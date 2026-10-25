@@ -1,12 +1,12 @@
-## Hi!
+## Hi! 👋
+
 
 I'm Ben Fievitz, and I'm currently an Honors Computer Science student at Drexel University. I have experience with software engineering, and I get excited about data science and ethical AI/ML. Above all, I'm always looking to learn something new!
 
-Languages: Python, Java, C, TypeScript, JavaScript, SQL, Bash, HTML, CSS
 
-Libraries/Frameworks: React.js, Node.js, Next.js, Express.js, Scikit-learn, Pandas
-
-Tools: GitLab CI/CD, MongoDB, PostgreSQL, Git, Visual Studio Code
+**Languages:** Python, Java, C, TypeScript, JavaScript, SQL, Bash, HTML, CSS\n
+**Libraries/Frameworks:** React.js, Node.js, Next.js, Express.js, Scikit-learn, Pandas\n
+**Tools:** GitLab CI/CD, MongoDB, PostgreSQL, Git, Visual Studio Code
 
 
 <!--
